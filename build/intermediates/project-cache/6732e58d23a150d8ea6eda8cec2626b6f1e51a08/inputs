@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=H:\Workspace\Android_studio_new\MovieNews2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=5dc2b86d558ff8abc33627358eb0ec0c9097e7a9
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

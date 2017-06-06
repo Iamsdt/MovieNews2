@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cebe6b9cbd6d58f797aa76008097d24\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\9c7302a4fe2e50759e52995d74248c48\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9c740f0a0387507e399070dbf97eff11\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\f1218370990e2081e0c061c165210fc0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\c483ebf37cffd937f63c55deaa096964\AndroidManifest.xml:17:1-26:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\a420151956c82a6b5cbabd690d33a394\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d937b0700acd293e5525dba983ad15ab\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\6fd407bdcda8d90cfed1560285100967\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\03115c1588425a5b997c959928a28fe7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bcca0df466e4556438a2973ba1a721ea\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5aca2a0133176655397d3e5ebef401\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e75faf5e278d3c19c4d52a4aab18b3d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e739f8cefa269f95632fcfff2c0226d8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0641357ea81df7580a66bfef2d93b8a7\AndroidManifest.xml:17:1-31:12
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:8:5-59:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cebe6b9cbd6d58f797aa76008097d24\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cebe6b9cbd6d58f797aa76008097d24\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\9c7302a4fe2e50759e52995d74248c48\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\9c7302a4fe2e50759e52995d74248c48\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9c740f0a0387507e399070dbf97eff11\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9c740f0a0387507e399070dbf97eff11\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\f1218370990e2081e0c061c165210fc0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\f1218370990e2081e0c061c165210fc0\AndroidManifest.xml:26:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\a420151956c82a6b5cbabd690d33a394\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\a420151956c82a6b5cbabd690d33a394\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d937b0700acd293e5525dba983ad15ab\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d937b0700acd293e5525dba983ad15ab\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\6fd407bdcda8d90cfed1560285100967\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\6fd407bdcda8d90cfed1560285100967\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\03115c1588425a5b997c959928a28fe7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\03115c1588425a5b997c959928a28fe7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bcca0df466e4556438a2973ba1a721ea\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bcca0df466e4556438a2973ba1a721ea\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5aca2a0133176655397d3e5ebef401\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5aca2a0133176655397d3e5ebef401\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e75faf5e278d3c19c4d52a4aab18b3d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e75faf5e278d3c19c4d52a4aab18b3d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e739f8cefa269f95632fcfff2c0226d8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e739f8cefa269f95632fcfff2c0226d8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0641357ea81df7580a66bfef2d93b8a7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0641357ea81df7580a66bfef2d93b8a7\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.blogspot.shudiptotrafder.movienews2.MainActivity
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.blogspot.shudiptotrafder.movienews2.DetailsActivity
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:parentActivityName
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:29:13-55
+	android:label
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:28:13-59
+	android:theme
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:27:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:31:13-33:88
+	android:value
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:32:17-63
+activity#com.blogspot.shudiptotrafder.movienews2.settings.SettingsActivity
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:36:9-37:56
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:37:13-54
+provider#com.blogspot.shudiptotrafder.movienews2.database.DBProvider
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:40:9-44:40
+	android:enabled
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:43:13-35
+	android:authorities
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:42:13-74
+	android:exported
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:41:13-48
+service#com.blogspot.shudiptotrafder.movienews2.services.MoviesServices
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:47:9-49:39
+	android:enabled
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:47:18-57
+service#com.blogspot.shudiptotrafder.movienews2.services.MoviesSyncIntentServices
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:51:9-57:19
+	android:enabled
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:52:13-35
+	android:exported
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:51:18-67
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:54:13-56:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:55:17-84
+	android:name
+		ADDED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml:55:25-81
+uses-sdk
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cebe6b9cbd6d58f797aa76008097d24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cebe6b9cbd6d58f797aa76008097d24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\9c7302a4fe2e50759e52995d74248c48\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\9c7302a4fe2e50759e52995d74248c48\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9c740f0a0387507e399070dbf97eff11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9c740f0a0387507e399070dbf97eff11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\f1218370990e2081e0c061c165210fc0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\f1218370990e2081e0c061c165210fc0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\c483ebf37cffd937f63c55deaa096964\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\c483ebf37cffd937f63c55deaa096964\AndroidManifest.xml:20:5-43
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\a420151956c82a6b5cbabd690d33a394\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\a420151956c82a6b5cbabd690d33a394\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d937b0700acd293e5525dba983ad15ab\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d937b0700acd293e5525dba983ad15ab\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\6fd407bdcda8d90cfed1560285100967\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\6fd407bdcda8d90cfed1560285100967\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\03115c1588425a5b997c959928a28fe7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\03115c1588425a5b997c959928a28fe7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bcca0df466e4556438a2973ba1a721ea\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bcca0df466e4556438a2973ba1a721ea\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5aca2a0133176655397d3e5ebef401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5aca2a0133176655397d3e5ebef401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e75faf5e278d3c19c4d52a4aab18b3d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e75faf5e278d3c19c4d52a4aab18b3d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e739f8cefa269f95632fcfff2c0226d8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e739f8cefa269f95632fcfff2c0226d8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0641357ea81df7580a66bfef2d93b8a7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0641357ea81df7580a66bfef2d93b8a7\AndroidManifest.xml:21:5-23:58
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Workspace\Android_studio_new\MovieNews2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\9c7302a4fe2e50759e52995d74248c48\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\9c7302a4fe2e50759e52995d74248c48\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9c740f0a0387507e399070dbf97eff11\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\9c740f0a0387507e399070dbf97eff11\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\f1218370990e2081e0c061c165210fc0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\f1218370990e2081e0c061c165210fc0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\c483ebf37cffd937f63c55deaa096964\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\c483ebf37cffd937f63c55deaa096964\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\a420151956c82a6b5cbabd690d33a394\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\a420151956c82a6b5cbabd690d33a394\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d937b0700acd293e5525dba983ad15ab\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d937b0700acd293e5525dba983ad15ab\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\6fd407bdcda8d90cfed1560285100967\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\6fd407bdcda8d90cfed1560285100967\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\03115c1588425a5b997c959928a28fe7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\03115c1588425a5b997c959928a28fe7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bcca0df466e4556438a2973ba1a721ea\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bcca0df466e4556438a2973ba1a721ea\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5aca2a0133176655397d3e5ebef401\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5aca2a0133176655397d3e5ebef401\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e75faf5e278d3c19c4d52a4aab18b3d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e75faf5e278d3c19c4d52a4aab18b3d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e739f8cefa269f95632fcfff2c0226d8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e739f8cefa269f95632fcfff2c0226d8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0641357ea81df7580a66bfef2d93b8a7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0641357ea81df7580a66bfef2d93b8a7\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\7a9e10198d734bbbdcd3242ff2d24d1c\AndroidManifest.xml:26:9-47
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.5.0.aar\cc93c48594ab3537488d3efba88208af\AndroidManifest.xml:37:25-84

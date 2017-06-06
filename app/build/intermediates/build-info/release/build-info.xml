@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    build-mode="FULL"
+    format="10"
+    plugin-version="3.0.0-alpha2"
+    timestamp="1496738111455"
+    verifier="NOT_RUN" >
+
+    <task
+        name="javac"
+        duration="19534" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="H:\Workspace\Android_studio_new\MovieNews2\app\release\app-release.apk"
+        type="MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1496738111455"
+        verifier="NOT_RUN" >
+        <artifact
+            location="H:\Workspace\Android_studio_new\MovieNews2\app\release\app-release.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
