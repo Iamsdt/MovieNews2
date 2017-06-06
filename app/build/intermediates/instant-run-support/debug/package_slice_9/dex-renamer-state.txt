@@ -1,0 +1,4 @@
+#Tue Jun 06 10:21:06 BDT 2017
+base.0=H\:\\Workspace\\Android_studio_new\\MovieNews2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+renamed.0=classes.dex
+file.0=H\:\\Workspace\\Android_studio_new\\MovieNews2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9\\classes.dex

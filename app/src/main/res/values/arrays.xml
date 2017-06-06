@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- sort movies label and value -->
+    <!--############### START ###############-->
+    <string-array name="pref_sort_movies">
+        <item>@string/pref_sort_movie_popular_title</item>
+        <item>@string/pref_sort_movie_top_rated_title</item>
+    </string-array>
+
+    <string-array name="pref_sort_movies_values">
+        <item>@string/pref_sort_movie_popular_value</item>
+        <item>@string/pref_sort_movie_top_rated_value</item>
+    </string-array>
+    <!--############### FINISH ###############-->
+
+
+    <!-- For text view -->
+    <!--############### START ###############-->
+    <string-array name="textSizeLabel">
+        <item>@string/sTextSmallLabel</item>
+        <item>@string/sTextMediumLabel</item>
+        <item>@string/sTextModerateLabel</item>
+        <item>@string/sTextLargeLabel</item>
+        <item>@string/sTextExtraLargeLabel</item>
+    </string-array>
+
+    <string-array name="textSizeValue">
+        <item>@string/sTextSmallValue</item>
+        <item>@string/sTextMediumValue</item>
+        <item>@string/sTextModerateValue</item>
+        <item>@string/sTextLargeValue</item>
+        <item>@string/sTextExtraLargeValue</item>
+    </string-array>
+    <!--############### FINISH ###############-->
+
+
+
+</resources>

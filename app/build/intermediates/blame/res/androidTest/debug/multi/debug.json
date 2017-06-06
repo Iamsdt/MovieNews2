@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "H:\\Workspace\\Android_studio_new\\MovieNews2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Shudipto Trafder\\.gradle\\caches\\transforms-1\\files-1.1\\rules-0.5.aar\\1f98bf4849714b16a34f080d82a4099a\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
